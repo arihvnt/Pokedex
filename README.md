@@ -22,6 +22,16 @@ Building Blocks
 
 ---
 
+## Screenshots
+
+### 🔹 Terminal Output
+![Code Output](assets/code.png)
+
+### 🔹 Program Running
+![Program Screenshot](assets/program.png)
+
+---
+
 Installation Procedure
 
 ```bash
