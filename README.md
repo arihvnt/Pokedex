@@ -1,4 +1,4 @@
-# 🧿 Pokédex CLI — Python x PokéAPI
+Pokédex CLI — Python x PokéAPI
 
 A simple command-line based Pokédex built using Python and the [PokéAPI](https://pokeapi.co/).  
 Type a Pokémon's name or ID and get all its details with just a press of a button.
