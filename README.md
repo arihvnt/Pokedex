@@ -32,6 +32,19 @@ Building Blocks
 
 ---
 
+## How to Run (Easy Steps)
+
+1. **Download the repository**
+   - Click the green `Code` button → `Download ZIP`
+   - Extract the folder
+
+2. **Double-click `runpokedex.bat`**  
+   This will automatically:
+   - Install required libraries
+   - Launch the Pokédex in terminal
+
+---
+
 Installation Procedure
 
 ```bash
