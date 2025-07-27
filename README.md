@@ -1,7 +1,20 @@
-# Pokédex CLI — Python x PokéAPI
+# 🧿 Pokédex CLI — Python x PokéAPI
 
 A simple command-line based Pokédex built using Python and the [PokéAPI](https://pokeapi.co/).  
 Type a Pokémon's name or ID and get all its details with just a press of a button.
+
+---
+
+## Version
+
+**v1.5 – July 2025**
+
+New in this version:
+- Added flavor text (official Pokédex description)
+- Shows generation and region
+- Shows what the Pokémon evolves **from**
+- Improved user input and error handling (asks again if Pokémon is not found)
+- Cleaner formatting of height, weight, and stats
 
 ---
 
@@ -29,19 +42,6 @@ Building Blocks
 
 ### 🔹 Program Running
 ![Program Screenshot](assets/program.png)
-
----
-
-## How to Run (Easy Steps)
-
-1. **Download the repository**
-   - Click the green `Code` button → `Download ZIP`
-   - Extract the folder
-
-2. **Double-click `runpokedex.bat`**  
-   This will automatically:
-   - Install required libraries
-   - Launch the Pokédex in terminal
 
 ---
 
